@@ -102,3 +102,6 @@ dist
 
 # TernJS port file
 .tern-port
+/.vs/gitforteams/config/applicationhost.config
+/.vs/gitforteams/v16/.suo
+/.vs/slnx.sqlite
